@@ -13,5 +13,5 @@ Soy **Ingeniero en Sistemas** enfocado en el mundo del **Análisis de Datos** y 
 
 ---
 📫 **¿Cómo contactarme?**
-* LinkedIn: [Link a tu LinkedIn]
-* Email: [Tu Correo]
+* LinkedIn: www.linkedin.com/in/josuéobando
+* Email: josue22aom@gmail.com
