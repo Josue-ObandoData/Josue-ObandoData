@@ -1,16 +1,17 @@
-## Hi there 👋
+# ¡Hola! Soy Josué Alejandro Obando Morales 👋
 
-<!--
-**Josue-ObandoData/Josue-ObandoData** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy **Ingeniero en Sistemas** enfocado en el mundo del **Análisis de Datos** y **Business Intelligence**. Me especializo en extraer valor de los datos mediante procesos de limpieza profunda y visualizaciones de alto impacto.
 
-Here are some ideas to get you started:
+### 🛠️ Mi Stack Tecnológico:
+* **Visualización:** Power BI (DAX, Modelado estrella), Excel Avanzado.
+* **Bases de Datos:** SQL (PostgreSQL, SQL Server).
+* **ETL:** Power Query, SQL Scripts.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Proyectos Destacados:
+* [Sales Performance & CRM Analysis](link-a-tu-repo-de-powerbi): Dashboard ejecutivo para el monitoreo de KPIs de ventas y eficiencia de agentes.
+* [Data Cleaning & SQL Analysis](link-a-tu-repo-de-sql): Procesamiento de datos desestructurados y validación técnica mediante SQL.
+
+---
+📫 **¿Cómo contactarme?**
+* LinkedIn: [Link a tu LinkedIn]
+* Email: [Tu Correo]
